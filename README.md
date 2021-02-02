@@ -1,4 +1,4 @@
-# test-2
+# redsoft-test
 
 ## Project setup
 ```

@@ -1,0 +1,65 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Merriweather', sans-serif;
+  color: #343030;
+}
+
+h1{
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 36px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 27px;
+}
+
+h3{
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+h4{
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 21px;
+}
+
+h5{
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 21px;
+}
+
+h6{
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 21px;
+}
+
+ul{
+  list-style: none;
+}
+
+a, a:hover{
+  text-decoration: none;
+  color: #343030;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+button, input{
+  font-family: 'Merriweather', sans-serif;
+}
+
+img{
+  width: 100%;
+}
